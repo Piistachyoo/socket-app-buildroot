@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_AESD_SOCKET
+	bool "aesd-socket"
+	help
+	    Includes the socket application and runs it initially on system startup.
